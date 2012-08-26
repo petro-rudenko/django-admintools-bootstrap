@@ -1,0 +1,17 @@
+*.log
+*.pot
+*.pyc
+local_settings.py
+
+*.pyc
+*.pyo
+
+*.egg-info
+build
+.directory
+dist/*
+
+#emacs temp files
+*~
+\#*\#
+.\#*
