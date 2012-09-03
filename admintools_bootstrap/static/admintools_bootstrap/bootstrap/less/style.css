@@ -1030,7 +1030,7 @@ table {
 }
 .table th {
   font-weight: bold;
-  vertical-align: bottom;
+  vertical-align: top;
 }
 .table td {
   vertical-align: top;
